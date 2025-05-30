@@ -1,8 +1,10 @@
-h1{
-  color: red;
-  text-align:centre;
-  font-width: bold;
-}
 body{
-  background-color:yellow;
+background-color: red;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: algerian;
+    text-shadow: 2px 2px 5px yellow;
 }
